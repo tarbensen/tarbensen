@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @tarbensen
 - 👀 I’m interested in electronics and programming.
 - 🌱 I’m currently learning Git and GitHub.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: jan@tarbensen.dk
 
 <!---
