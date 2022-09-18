@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tarbensen
 - 👀 I’m interested in electronics and programming.
-- 🌱 I’m currently working on private projects, but I hope to publish some here one day.
+- 🌱 I’m currently working on private projects, but I hope to publish something here one day.
 - 📫 How to reach me: jan@tarbensen.dk
 
 <!---
